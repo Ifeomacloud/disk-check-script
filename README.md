@@ -42,7 +42,7 @@ No external packages or root privileges are required.
 
 ## Usage
 
-Run the script from your terminal:./disk-check.sh
+Run the script from your terminal:. /disk-check.sh
 
 ## Example output:
 
