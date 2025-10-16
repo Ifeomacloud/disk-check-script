@@ -12,7 +12,7 @@ All results are saved to an output file named **`disk_report.txt`** for referenc
 
 ---
 
-## ✨ Features
+##  Features
 - Displays **current date and time** in the report header.
 - Shows **human-readable disk usage** (`df -h`).
 - Automatically checks for **high disk usage** above a defined threshold (default 80%).
@@ -22,7 +22,7 @@ All results are saved to an output file named **`disk_report.txt`** for referenc
 
 ---
 
-## 🧩 Requirements
+## Requirements
 - Linux or macOS system with **Bash** (version 4+ recommended)
 - Standard core utilities: `df`, `awk`, `date`, and `tee`
 
@@ -30,7 +30,7 @@ No external packages or root privileges are required.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone or download this repository:
    ```bash
@@ -40,11 +40,11 @@ No external packages or root privileges are required.
 2. Make the script executable: 
    chmod +x disk-check.sh
 
-🧭 Usage
+## Usage
 
 Run the script from your terminal:./disk-check.sh
 
-Example output:
+## Example output:
 
 ===== Disk report - 2025-10-16 09:35:22 UTC =====
 
@@ -58,7 +58,7 @@ Partitions exceeding 80% (if any):
 
 Disk space running low check system
 
-Report saved to disk_report.txt
+## Report saved to disk_report.txt
 
 
 Output File
