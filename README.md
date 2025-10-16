@@ -58,10 +58,10 @@ Partitions exceeding 80% (if any):
 
 Disk space running low check system
 
-# Report saved to disk_report.txt
+## Report saved to disk_report.txt
 
 
-## Output File
+# Output File
 
 Each time you run the script, the full output is saved (and overwritten) in:
 
